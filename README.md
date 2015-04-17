@@ -1,3 +1,3 @@
 TwoVerticalListview
 
-This project implements a function that you can arrange two listviews vertically in one activity.
+This application implements a function which you allows yout to arrange two listviews vertically in one activity.
